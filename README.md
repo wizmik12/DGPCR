@@ -15,6 +15,11 @@
   pages={}}
 ~~~
 
+## Repo
+Find the features, preprocessing and all the info about the data in the [repo](https://github.com/wizmik12/crowdsourcing-digital-pathology-GPs) of our previous work.
+
+To use Deep Gaussian Processes, you need this [repo](https://github.com/UCL-SML/Doubly-Stochastic-DGP) installed.
+
 ## Abstract
 Machine learning (ML) methods often require large volumes of labeled data to achieve
 meaningful performance. The expertise necessary for labeling data in medical applications like pathology

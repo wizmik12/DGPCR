@@ -15,7 +15,7 @@
   pages={}}
 ~~~
 
-## Repo
+## To run the code
 Find the features, preprocessing and all the info about the data in the [repo](https://github.com/wizmik12/crowdsourcing-digital-pathology-GPs) of our previous work.
 
 To use Deep Gaussian Processes, you need this [repo](https://github.com/UCL-SML/Doubly-Stochastic-DGP) installed.

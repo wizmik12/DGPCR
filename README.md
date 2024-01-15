@@ -10,9 +10,9 @@
   journal={IEEE Access}, 
   title={Deep Gaussian Processes for classification with multiple noisy annotators. {A}pplication to breast cancer tissue classification}, 
   year={2023},
-  volume={},
+  volume={11},
   number={},
-  pages={}}
+  pages={6922 - 6934}}
 ~~~
 
 ## To run the code

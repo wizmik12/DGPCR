@@ -6,13 +6,14 @@
 #### Citation
 ~~~
 @article{lopez2023deep,
-  author={López-Pérez, Miguel and Morales-Álvarez, Pablo and Cooper, Lee A. D. and Molina, Rafael and Katsaggelos, Aggelos K.},
-  journal={IEEE Access}, 
-  title={Deep Gaussian Processes for classification with multiple noisy annotators. {A}pplication to breast cancer tissue classification}, 
-  year={2023},
+  title={Deep Gaussian processes for classification with multiple noisy annotators. Application to breast cancer tissue classification},
+  author={L{\'o}pez-P{\'e}rez, Miguel and Morales-{\'A}lvarez, Pablo and Cooper, Lee AD and Molina, Rafael and Katsaggelos, Aggelos K},
+  journal={IEEE Access},
   volume={11},
-  number={},
-  pages={6922 - 6934}}
+  pages={6922--6934},
+  year={2023},
+  publisher={IEEE}
+}
 ~~~
 
 ## To run the code
